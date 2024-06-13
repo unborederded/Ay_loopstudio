@@ -1,0 +1,243 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.loop{
+    background-image: url(images/desktop/image-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 50px;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.box{
+    padding: 110px 50px;
+    color: white;
+}
+.Immersive{
+    font-size: 50px;
+}
+.leader_img, .leader_text_content{  
+    width: 50%;
+}
+.leader_div{
+    display: flex;
+    padding-top: 10%;
+    padding-left: 10px;
+
+}
+.leader_img{
+    background-image: url(images/desktop/image-interactive.jpg);
+    margin-left: 80px;
+    background-repeat: no-repeat;
+    box-sizing: content-box;
+    height: 500px;
+    width: 600px;
+
+}
+.small_box{
+background-color: rgba(193, 105, 209, 0.856);
+height: 200px;
+width: 150px;
+padding-left: 100px;
+}
+.leader_text{
+   margin-left: 15%;
+   margin-top: 20%;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.leader_textsm{
+    color: rgba(0, 0, 0, 0.582);
+    margin-top: 25px;
+}
+.OUR{
+    margin-top: 15%;
+    font-weight: lighter;
+    display: flex;
+    justify-content: space-between;
+    /* padding-left: 70px; */
+    padding: 0px 100px;
+    padding-bottom: 50px;
+}
+.all{
+    height: 30px;
+    width: 100px;
+    /* padding-left: -10px; */
+}
+.all:hover{
+    background-color: aquamarine;
+    /* padding-left: 150px; */
+}
+.collection{
+    display: flex;
+    width: 150%;
+    padding-left: 50px;
+    
+}
+.box1{
+    background-image: url(images/desktop/image-deep-earth.jpg);
+    height: 450px;
+    width: 250px;
+    margin-left: 50px;
+    background-size: cover;
+    display: flex;
+}
+.box1 h2{
+    color: white;
+    margin-top: 350px;
+    margin-left: 40px;
+}
+.box2{
+   background-image: url(images/desktop/image-night-arcade.jpg);
+   height: 450px;
+   width: 250px;
+   margin-left: 50px;
+   background-size: cover;
+   display: flex;   
+}
+.box2 h2{
+    color: #ffffff;
+    margin-top: 350px;
+    margin-left: 40px;
+}
+.box3{
+    background-image: url(images/desktop/image-soccer-team.jpg);
+    height: 450px;
+    width: 250px;
+    margin-left: 50px;
+    background-size: cover;
+    display: flex;   
+ }
+ .box3 h2{
+     color: white;
+     margin-top: 350px;
+     margin-left: 40px;
+ }
+ .box4{
+    background-image: url(images/desktop/image-grid.jpg);
+    height: 450px;
+    width: 250px;
+    margin-left: 50px;
+    background-size: cover;
+    display: flex;   
+ }
+.box4 h2{
+     color: white;
+     margin-top: 350px;
+     margin-left: 40px;
+}
+.collection2{
+    display: flex;
+    width: 150%;
+    padding-left: 50px;
+    padding-top: 30px;
+    
+}
+.box5{
+    background-image: url(images/desktop/image-from-above.jpg);
+    height: 450px;
+    width: 250px;
+    margin-left: 50px;
+    background-size: cover;
+    display: flex;
+}
+.box5 h2{
+    color: white;
+    margin-top: 350px;
+    margin-left: 40px;
+}
+.box6{
+   background-image: url(images/desktop/image-pocket-borealis.jpg);
+   height: 450px;
+   width: 250px;
+   margin-left: 50px;
+   background-size: cover;
+   display: flex;   
+}
+.box6 h2{
+    color: #ffffff;
+    margin-top: 350px;
+    margin-left: 40px;
+}
+.box7{
+    background-image: url(images/desktop/image-curiosity.jpg);
+    height: 450px;
+    width: 250px;
+    margin-left: 50px;
+    background-size: cover;
+    display: flex;   
+}
+.box7 h2{
+    color: white;
+    margin-top: 350px;
+    margin-left: 40px;
+}
+.box8{
+    background-image: url(images/desktop/image-fisheye.jpg);
+    height: 450px;
+    width: 250px;
+    margin-left: 50px;
+    background-size: cover;
+    display: flex;   
+}
+.box8 h2{
+    color: white;
+    margin-top: 350px;
+    margin-left: 40px;
+}
+.lastbox{
+   background-color: black;
+   width: 100%;
+   height: 150px;
+   margin-top: 15%;
+}
+.loopst{
+    margin-left: 10px;
+}
+.heading{
+    justify-content: space-between;
+    padding: 40px 80px;
+}
+.menu2{
+    padding-top: 20px;
+    padding-left: -45px;
+    display: flex;
+}
+.menu2 ul li{
+    display: inline-block;
+}
+.menu2 ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.face{
+    margin-left: 650px;
+    margin-top: -45px;
+}
+.twi{
+    margin-left: 700px;
+    margin-top: -25px;
+}
+.pin{
+    margin-left: 750px;
+    margin-top: -25px;
+}
+.ins{
+    margin-left: 800px;
+    margin-top: -28px;
+}
